@@ -1,0 +1,21 @@
+body
+{
+    background-color: #def4c6 !important;
+}
+
+.title_text
+{
+    font-family: "Fascinate Inline", system-ui;
+    color: #1c7c54 !important;
+    font-size: 70px !important;
+}
+
+.navbar
+{
+    background-color: #73e2a7;
+}
+
+#game_cards
+{
+    padding-top: 80px;
+}
