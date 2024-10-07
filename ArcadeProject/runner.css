@@ -36,8 +36,8 @@ h1 {
 }
 
 .game-container {
-    width: 700px;
-    height: 350px;
+    width: 640px;
+    height: 360px;
     position: absolute; /* Ensures the element can be positioned relative to the viewport */
     top: 50%; 
     left: 50%; 
